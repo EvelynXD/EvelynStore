@@ -1,0 +1,1 @@
+No Content: https://helgastoree.xyz/js/jquery.magnific-popup.js
